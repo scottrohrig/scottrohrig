@@ -10,6 +10,8 @@ Hi & welcome! I'm Scott!
   
   <summary>Recent Projects</summary>
 
+- [Readme Generator](https://github.com/scottrohrig/readme-gen) | A Node.js CLI to create a project README.md file
+  
 -  [got hops! a brewery search dashboard](https://scottrohrig.github.io/got-hops/) | [repo](https://github.com/scottrohrig/got-hops/)
   
 -  [Weather Lookup](https://scottrohrig.github.io/weather-dashboard/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
