@@ -32,6 +32,7 @@ Hi & welcome! I'm Scott!
 ![tailwind-css](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&logoWidth=30)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)
 ![Inquirer](https://img.shields.io/badge/-Inquirer-black?&logo=javascript&logoColor=black&logoWidth=30)
+![godot](https://img.shields.io/badge/-Godot-478CBF?&logo=godot-engine&logoColor=white&logoWidth=30)
 
 <!--
 **scottrohrig/scottrohrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
