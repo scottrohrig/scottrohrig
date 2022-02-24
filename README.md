@@ -29,6 +29,9 @@ Hi & welcome! I'm Scott!
 ![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30)
 ![jquery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&logoWidth=30)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=30)
+![tailwind-css](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&logoWidth=30)
+![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=30)
+![Inquirer](https://img.shields.io/badge/-Inquirer-black?&logo=javascript&logoColor=black&logoWidth=30)
 
 <!--
 **scottrohrig/scottrohrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
