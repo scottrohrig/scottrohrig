@@ -9,7 +9,7 @@ Hi & welcome! I'm Scott!
   
   <summary>Recent Projects</summary>
 
-- [Happy Harvesters](happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
+- [Happy Harvesters](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
 - [tella](https://tella.herokuapps.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
   
