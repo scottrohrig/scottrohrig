@@ -8,14 +8,16 @@ Hi & welcome! I'm Scott!
 <details>
   
   <summary>Recent Projects</summary>
+
+- [Happy Harvesters](happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
-- [tella](https://tella.herokuapps.com) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
+- [tella](https://tella.herokuapps.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
   
 -  [Readme Generator](https://github.com/scottrohrig/readme-gen) | A Node.js CLI to create a project README.md file
   
 -  [got hops! a brewery search dashboard](https://scottrohrig.github.io/got-hops/) | [repo](https://github.com/scottrohrig/got-hops/)
   
--  [Weather Lookup](https://scottrohrig.github.io/weather-dashboard/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
+-  [One-Hand Solitaire](https://github.com/scottrohrig/weather-dashboard/) | A Godot project aimed at utilizing the Control Nodes (UI)
   
 -  [Speed Cards Simple Quiz](https://scottrohrig.github.io/speed-cards/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
   
