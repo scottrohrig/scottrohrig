@@ -11,7 +11,7 @@ Hi & welcome! I'm Scott!
 
 - [Happy Harvesters](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
-- [tella](https://tella.herokuapps.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
+- [tella](https://tella.herokuapp.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
   
 -  [Readme Generator](https://github.com/scottrohrig/readme-gen) | A Node.js CLI to create a project README.md file
   
