@@ -17,7 +17,7 @@ Hi & welcome! I'm Scott!
   
 -  [got hops! a brewery search dashboard](https://scottrohrig.github.io/got-hops/) | [repo](https://github.com/scottrohrig/got-hops/)
   
--  [One-Hand Solitaire](https://github.com/scottrohrig/weather-dashboard/) | A Godot project aimed at utilizing the Control Nodes (UI)
+-  [One-Hand Solitaire](https://github.com/scottrohrig/one-hand-solitaire/) | A Godot project aimed at utilizing the Control Nodes (UI)
   
 -  [Speed Cards Simple Quiz](https://scottrohrig.github.io/speed-cards/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
   
