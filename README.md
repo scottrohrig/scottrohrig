@@ -1,9 +1,11 @@
 Hi & welcome! I'm Scott! 
 -
 
-<!-- I'm a full stack engineer based in the Bay Area.  -->
+A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, poverty relief efforts, sustainability, Web3 and machine learning.
 
-<!-- ## [My Portfolio](https://scottrohrig.github.io/portfolio/) -->
+<!-- I believe in raising the floor by supporting the growth of those around. A behavioral cusp is a set of behaviors that opens the door to a whole host of new opportunities (reinforcers), such as learning to read lets the learner access new worlds or the vast accumulated knowledge of the human condition. In simple terms, it's giving a fish feeds for a day, teaching to fish feeds for a lifetime.  -->
+
+#### [My Portfolio](https://scottrohrig.github.io/portfolio/)
 
 <details>
   
