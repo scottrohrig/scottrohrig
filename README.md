@@ -22,6 +22,8 @@ A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, pover
 -  [One-Hand Solitaire](https://github.com/scottrohrig/one-hand-solitaire/) | A Godot project aimed at utilizing the Control Nodes (UI)
   
 -  [Speed Cards Simple Quiz](https://scottrohrig.github.io/speed-cards/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
+
+-  [Get your controller control 🎮 out and try out out a little fan game I made with Godot](https://sco-otr.itch.io/dragonball-mini) 
   
 </details
 
@@ -56,3 +58,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Do Good, Be Kind
