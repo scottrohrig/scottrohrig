@@ -9,7 +9,7 @@ A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, pover
 
 <details>
   
-  <summary>Recent Projects</summary>
+  <summary>Recent Projects <h1>🍳👨‍🍳</h1></summary>
 
 - [Happy Harvesters](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
