@@ -11,12 +11,12 @@ A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, pover
   
   <summary>Recent Projects <h1>🍳👨‍🍳</h1></summary>
 
-#### Oops, I didn't migrate from heroku in time
+> *Oops, I didn't migrate from heroku in time
 ---
 
-- [Happy Harvesters](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
+- [Happy Harvesters*](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
-- [tella](https://tella.herokuapp.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
+- [tella*](https://tella.herokuapp.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
   
 -  [Readme Generator](https://github.com/scottrohrig/readme-gen) | A Node.js CLI to create a project README.md file
   
