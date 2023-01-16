@@ -11,6 +11,9 @@ A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, pover
   
   <summary>Recent Projects <h1>🍳👨‍🍳</h1></summary>
 
+#### Oops, I didn't migrate from heroku in time
+---
+
 - [Happy Harvesters](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
   
 - [tella](https://tella.herokuapp.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
@@ -43,21 +46,6 @@ A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, pover
 [![pandas](https://img.shields.io/badge/-Pandas-130654?&logo=pandas&logoColor=white&logoWidth=30)](https://pandas.pydata.org/)
 [![kivy](https://img.shields.io/badge/-Kivy-130654?&logo=kivy&logoColor=white&logoWidth=30)](https://kivy.org/)
 [![godot](https://img.shields.io/badge/-Godot-478CBF?&logo=godot-engine&logoColor=white&logoWidth=30)](https://godotengine.org/)
-
-<!--
-**scottrohrig/scottrohrig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Do Good, Be Kind
 
