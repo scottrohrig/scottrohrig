@@ -1,34 +1,28 @@
-Hi & welcome! I'm Scott! 
--
+# Take a look 
 
-A recent Full Stack Bootcamp graduate (April 2022) interested in eduation, poverty relief efforts, sustainability, Web3 and machine learning.
+A **behavioral cusp** is a set of behaviors one learns that opens the door to a whole host of new opportunities. Learning to read translates to new worlds of knowledge. These are the flywheels of life. What's your next cusp?
 
 <!-- I believe in raising the floor by supporting the growth of those around. A behavioral cusp is a set of behaviors that opens the door to a whole host of new opportunities (reinforcers), such as learning to read lets the learner access new worlds or the vast accumulated knowledge of the human condition. In simple terms, it's giving a fish feeds for a day, teaching to fish feeds for a lifetime.  -->
 
-#### [My Portfolio](https://scottrohrig.github.io/portfolio/)
+## [My Portfolio](https://scottrohrig.github.io/portfolio/)
 
 <details>
   
   <summary>Recent Projects <h1>🍳👨‍🍳</h1></summary>
 
-> *Oops, I didn't migrate from heroku in time
----
+> *Need to migrate from heroku
 
-- [Happy Harvesters*](https://happy-harvesters.herokuapp.com) | [repo](https://github.com/scottrohrig/apple-orchard-games/) | A MERN-Stack progressive web application using Apollo with GraphQL
-  
-- [tella*](https://tella.herokuapp.com) | [repo](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL
-  
--  [Readme Generator](https://github.com/scottrohrig/readme-gen) | A Node.js CLI to create a project README.md file
-  
--  [got hops! a brewery search dashboard](https://scottrohrig.github.io/got-hops/) | [repo](https://github.com/scottrohrig/got-hops/)
-  
--  [One-Hand Solitaire](https://github.com/scottrohrig/one-hand-solitaire/) | A Godot project aimed at utilizing the Control Nodes (UI)
-  
--  [Speed Cards Simple Quiz](https://scottrohrig.github.io/speed-cards/) | [repo](https://github.com/scottrohrig/weather-dashboard/)
+|Live Project|Repo|Note||
+|---|---|---|---|
+|[Happy Harvesters*](https://happy-harvesters.herokuapp.com)|[scottrohrig/apple-orchard-games/](https://github.com/scottrohrig/apple-orchard-games/)|A MERN-Stack progressive web application using Apollo with GraphQL | ![trees!](https://user-images.githubusercontent.com/91100425/163503612-d385a51b-dad8-46ee-a25f-19253fdb93ba.jpg)|
+|[tella*](https://tella.herokuapp.com) | [scottrohrig/messaging-app/](https://github.com/scottrohrig/messaging-app/) | A full-stack messaging app built with Node.js, Sequelize, & MySQL|![tella list view](https://github.com/scottrohrig/messaging-app/raw/main/assets/home-web.png)|
+| -- |[Readme Generator](https://github.com/scottrohrig/readme-gen)| A Node.js CLI to create a project README.md file|![a video showing the generator creating a sooper cool project](https://github.com/scottrohrig/readme-gen/raw/main/assets/demo.gif)|
+|[got hops! a brewery search dashboard](https://scottrohrig.github.io/got-hops/) | [scottrohrig/got-hops/](https://github.com/scottrohrig/got-hops/)||![search & star your favs](https://github.com/scottrohrig/got-hops/raw/main/assets/images/demo-desktop.gif)|
+| -- |[One-Hand Solitaire](https://github.com/scottrohrig/one-hand-solitaire/) | A Godot project aimed at utilizing the Control Nodes (UI)|
+|[Speed Cards Simple Quiz](https://scottrohrig.github.io/speed-cards/) | [scottrohrig/speed-cards](https://github.com/scottrohrig/speed-cards)| -- |
+|[Get your controller control 🎮 out and try out out a little fan game I made with Godot](https://sco-otr.itch.io/dragonball-mini) | hosted on itch | -- |
 
--  [Get your controller control 🎮 out and try out out a little fan game I made with Godot](https://sco-otr.itch.io/dragonball-mini) 
-  
-</details
+</details>
 
 ## Technologies and Tools  
 
